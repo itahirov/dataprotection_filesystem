@@ -14,6 +14,7 @@ So after running this project by **dotnet run**, you will see new xml file insid
 You can also apply keys protection with certificate or with dpapi
 
 https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/configuration/overview?view=aspnetcore-5.0#protectkeyswithazurekeyvault
+<br/>
 https://jakeydocs.readthedocs.io/en/latest/security/data-protection/configuration/overview.html
 
 
